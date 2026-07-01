@@ -4,12 +4,13 @@
   "description": "لعبة سين جيم للقروب، مصمّمة للبنات: فئات، إيموجي، دندنة، تمثيل و«ممنوع تقولين».",
   "lang": "ar",
   "dir": "rtl",
-  "start_url": "/",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#2A0E2E",
   "theme_color": "#2A0E2E",
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }

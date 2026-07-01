@@ -18,8 +18,11 @@
 ## What's in v3
 - **Brand identity** — wordmark + kiss/heart mark, English lockup, dark-glam
   palette, favicon & PWA manifest (installs to the home screen).
-- **Bigger, fresher content** — **18 categories / 108 questions** researched
-  against current (2025–2026) Kuwaiti girl culture, culturally reviewed.
+- **Bigger, fresher content** — **22 categories / 132 questions** researched
+  against current (2025–2026) Kuwaiti girl culture, culturally reviewed. Mixes
+  "typical Kuwaiti" staples (à la ثبّت / مخمخ) with global topics Kuwaitis love —
+  travel destinations (London, Georgia, Bodrum, Greece, Cannes, LA) and English
+  songs — all written in Arabic.
 - **Easier to run a game night:**
   - 🔊 **Sound** (synthesized, no assets) with a mute toggle.
   - ❔ **How-to-play** sheet reachable from any screen.

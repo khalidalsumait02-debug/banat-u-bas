@@ -123,6 +123,18 @@ designers (يوسف الجسمي), cafes & matcha & Dubai chocolate, perfume & o
 nostalgia (سبيستون، افتح يا سمسم، تماغوتشي، BBM), Kuwaiti dialect & Arabizi,
 Kuwaiti wedding traditions (الحنّة، الملچة، الزفّة، الدزّة، الجلوة).
 
+**Two content pillars, deliberately balanced:**
+1. **"Typical Kuwaiti" staples** (the ثبّت / مخمخ baseline every trivia app has):
+   معلومات كويتية — currency, National Day, أبراج الكويت, فيلكا, pearl diving, السدو.
+2. **Global topics Kuwaitis actually care about** — because this audience is
+   worldly and travels constantly. All written in Arabic:
+   - **سفر ووجهات** — real Kuwaiti summer spots: London (Harrods/Knightsbridge),
+     Georgia (Tbilisi/Batumi), Bodrum, Greece, Cannes, LA.
+   - **معالم ومدن** — world landmarks/cities (Paris, NYC, London, Venice,
+     St Tropez, Boston).
+   - **أغاني عالمية** — English songs trending with this crowd (Espresso, Taylor
+     Swift, The Weeknd, APT., Billie Eilish, Die With A Smile).
+
 **Avoid** (baked into the content rules):
 - Politics, regional conflict, and religion-as-quiz-material.
 - Alcohol / dating / clubbing framing (Kuwait is conservative; keep it clean).

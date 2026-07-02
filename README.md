@@ -18,11 +18,14 @@
 ## What's in v3
 - **Brand identity** — wordmark + kiss/heart mark, English lockup, dark-glam
   palette, favicon & PWA manifest (installs to the home screen).
-- **Bigger, fresher content** — **22 categories / 132 questions** researched
+- **Bigger, fresher content** — **24 categories / 144 questions** researched
   against current (2025–2026) Kuwaiti girl culture, culturally reviewed. Mixes
   "typical Kuwaiti" staples (à la ثبّت / مخمخ) with global topics Kuwaitis love —
-  travel destinations (London, Georgia, Bodrum, Greece, Cannes, LA) and English
-  songs — all written in Arabic.
+  travel destinations (London, Georgia, Bodrum, Greece, Cannes, LA), English
+  songs, and now-culture categories (ترندات الكويت 🔥، الكويت الحين ⚡) built
+  from deep social-media research — all written in Arabic. See
+  [`docs/CURRENT-CULTURE-2026.md`](./docs/CURRENT-CULTURE-2026.md) for the
+  research base and content safety rules.
 - **Easier to run a game night:**
   - 🔊 **Sound** (synthesized, no assets) with a mute toggle.
   - ❔ **How-to-play** sheet reachable from any screen.
